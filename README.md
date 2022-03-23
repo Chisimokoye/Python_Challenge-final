@@ -15,6 +15,7 @@ The greatest decrease in profits (date and amount) over the entire period
 
 
 
+
 **PYPOLL**
 ![image](https://user-images.githubusercontent.com/99673859/159591617-a155bca6-7c93-4c06-aaf8-4fbdc92dfa12.png)
 This contains a python script that helps a small, rural town modernize its vote counting process. The task is to create a Python script that analyzes the votes and calculates each of the following:
